@@ -48,7 +48,7 @@ main {
 } .faqs__answer {
     color: colors.$dark-grayish-blue;
     max-height: 0;
-    overflow: clip;
+    overflow: hidden;
     line-height: 1.2em;
     transition: all 200ms ease;
 } .faqs__expand {

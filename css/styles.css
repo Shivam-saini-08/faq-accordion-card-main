@@ -55,7 +55,7 @@ main {
 .faqs__answer {
   color: #787887;
   max-height: 0;
-  overflow: clip;
+  overflow: hidden;
   line-height: 1.2em;
   transition: all 200ms ease;
 }
